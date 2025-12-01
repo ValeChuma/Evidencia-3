@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "MiSitioWeb/1.0.0": {
+        "runtime": {
+          "MiSitioWeb.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MiSitioWeb/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
