@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiSitioWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d70e1be479f9ffd20ae2d164dc46aa9f7e4484e")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiSitioWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiSitioWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
